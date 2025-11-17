@@ -1,0 +1,15 @@
+	# Visual Studio
+*.sln.docstates
+*.suo
+*.user
+*.config
+*.dbmdl
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+
+# Roslyn
+.vs/
